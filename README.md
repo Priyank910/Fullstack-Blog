@@ -84,6 +84,8 @@ Built using Node.js, Express.js, MongoDB, Passport.js, EJS, and Cloudinary.
 
 ## Project Architecture
 
+```bash
+
 Fullstack-Blog
 │
 ├── config/
@@ -117,6 +119,7 @@ Fullstack-Blog
 │   └── EJS Templates
 │
 └── server.js
+```
 
 Database Models
 User
