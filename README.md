@@ -196,7 +196,7 @@ Post Details
 Comments Section
 Author
 
-Priyank Patel
+Priyank Chavda
 
 GitHub: https://github.com/Priyank910
 
@@ -204,16 +204,3 @@ License
 
 This project is licensed under the MIT License.
 
-
----
-
-For future repos, this format is enough:
-
-```text
-Repo Link:
-https://github.com/username/project
-
-Paste:
-1. Directory structure
-2. package.json
-3. README (if exists)
